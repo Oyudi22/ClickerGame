@@ -38,7 +38,6 @@ upgrade1.addEventListener('click', () => {
 
         updateUI();
     }
-    
 });
 
 upgrade2.addEventListener('click', () => {
